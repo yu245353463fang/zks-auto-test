@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 12 23:55:10 CST 2021","Wed May 12 23:55:10 CST 2021","0","cases","test_price1","Test","","","test_api",""
+"failed","Wed May 12 23:55:10 CST 2021","Wed May 12 23:55:10 CST 2021","0","cases","test_price1","Test","","","test_fail",""
+"passed","Wed May 12 23:55:10 CST 2021","Wed May 12 23:55:10 CST 2021","0","cases","test_price1","Test","","","test_case",""
+"passed","Thu May 13 02:07:53 CST 2021","Thu May 13 02:07:53 CST 2021","0","cases","test_price1","TestTokenPrice","","","test_api",""
+"passed","Thu May 13 03:06:02 CST 2021","Thu May 13 03:06:02 CST 2021","0","cases","test_price1","TestTokenPrice","","","test_get_price_fail",""
+"passed","Thu May 13 03:06:02 CST 2021","Thu May 13 03:06:02 CST 2021","0","cases","test_price1","TestTokenPrice","","","test_get_price_success",""
+"failed","Thu May 13 02:07:53 CST 2021","Thu May 13 02:07:53 CST 2021","0","cases","test_price1","TestTokenPrice","","","test_fail",""

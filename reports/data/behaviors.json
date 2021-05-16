@@ -1,0 +1,312 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "获取币种价格",
+    "children" : [ {
+      "name" : "币种列表数据",
+      "children" : [ {
+        "name" : "test_case",
+        "uid" : "8dc92c916ab640ce",
+        "parentUid" : "67f768b559dba17a2b60de447651df47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620834910443,
+          "stop" : 1620834910443,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "67f768b559dba17a2b60de447651df47"
+    }, {
+      "name" : "获取成功",
+      "children" : [ {
+        "name" : "test_get_price_success",
+        "uid" : "c2745059ee23391e",
+        "parentUid" : "849f6d7047a9ceb6be351b3684b1428d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362846,
+          "stop" : 1620846362846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "849f6d7047a9ceb6be351b3684b1428d"
+    }, {
+      "name" : "验证获取币种价格",
+      "children" : [ {
+        "name" : "test_get_price_success",
+        "uid" : "c2745059ee23391e",
+        "parentUid" : "62258e31f7022c7e8a0f2102493919c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362846,
+          "stop" : 1620846362846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "62258e31f7022c7e8a0f2102493919c4"
+    } ],
+    "uid" : "eedaebdfe7b9278b53249c5e8555f60a"
+  }, {
+    "name" : "huodhuwdhi",
+    "children" : [ {
+      "name" : "denglushibai",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "333f06a977afc9c4",
+        "parentUid" : "2ae1d67593be828197bb47e3444d1fd1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620834910445,
+          "stop" : 1620834910445,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api",
+        "uid" : "5065938b6fd9faf8",
+        "parentUid" : "2ae1d67593be828197bb47e3444d1fd1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620834910553,
+          "stop" : 1620834910553,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_fail",
+        "uid" : "cf28fc1058d427c8",
+        "parentUid" : "2ae1d67593be828197bb47e3444d1fd1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620842873785,
+          "stop" : 1620842873785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api",
+        "uid" : "578e66e85c68f648",
+        "parentUid" : "2ae1d67593be828197bb47e3444d1fd1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620842873887,
+          "stop" : 1620842873887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ae1d67593be828197bb47e3444d1fd1"
+    }, {
+      "name" : "验证获取币种价格",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "cf28fc1058d427c8",
+        "parentUid" : "afa01d7cd1adcfe757a4876d915c5741",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620842873785,
+          "stop" : 1620842873785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api",
+        "uid" : "578e66e85c68f648",
+        "parentUid" : "afa01d7cd1adcfe757a4876d915c5741",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620842873887,
+          "stop" : 1620842873887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "afa01d7cd1adcfe757a4876d915c5741"
+    } ],
+    "uid" : "ba6563f44c5f0e4e5b1c3d5dd7fd0160"
+  }, {
+    "name" : "api_test",
+    "children" : [ {
+      "name" : "denglushibai",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "cf28fc1058d427c8",
+        "parentUid" : "3ecdd4c2cce1800f72ac76e53dd5fbe5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620842873785,
+          "stop" : 1620842873785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api",
+        "uid" : "578e66e85c68f648",
+        "parentUid" : "3ecdd4c2cce1800f72ac76e53dd5fbe5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620842873887,
+          "stop" : 1620842873887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ecdd4c2cce1800f72ac76e53dd5fbe5"
+    }, {
+      "name" : "验证获取币种价格",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "cf28fc1058d427c8",
+        "parentUid" : "be78d1ad88c0f8f3a074fd911b13bf45",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620842873785,
+          "stop" : 1620842873785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api",
+        "uid" : "578e66e85c68f648",
+        "parentUid" : "be78d1ad88c0f8f3a074fd911b13bf45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620842873887,
+          "stop" : 1620842873887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_price_success",
+        "uid" : "c2745059ee23391e",
+        "parentUid" : "be78d1ad88c0f8f3a074fd911b13bf45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362846,
+          "stop" : 1620846362846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_price_fail",
+        "uid" : "3671902ed56740c2",
+        "parentUid" : "be78d1ad88c0f8f3a074fd911b13bf45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362848,
+          "stop" : 1620846362848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be78d1ad88c0f8f3a074fd911b13bf45"
+    }, {
+      "name" : "获取成功",
+      "children" : [ {
+        "name" : "test_get_price_success",
+        "uid" : "c2745059ee23391e",
+        "parentUid" : "cfc9f190777e4c64316dff126a8f9a7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362846,
+          "stop" : 1620846362846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cfc9f190777e4c64316dff126a8f9a7a"
+    }, {
+      "name" : "获取不到币种信息",
+      "children" : [ {
+        "name" : "test_get_price_fail",
+        "uid" : "3671902ed56740c2",
+        "parentUid" : "3b3e1682283ecff6defb925df161d3d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362848,
+          "stop" : 1620846362848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b3e1682283ecff6defb925df161d3d3"
+    } ],
+    "uid" : "fdc9211b96ba6c053a89ca0ab603eefc"
+  }, {
+    "name" : "币种信息错误",
+    "children" : [ {
+      "name" : "获取不到币种信息",
+      "children" : [ {
+        "name" : "test_get_price_fail",
+        "uid" : "3671902ed56740c2",
+        "parentUid" : "c7819bd186264e41e4fe64de162298ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362848,
+          "stop" : 1620846362848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7819bd186264e41e4fe64de162298ba"
+    }, {
+      "name" : "验证获取币种价格",
+      "children" : [ {
+        "name" : "test_get_price_fail",
+        "uid" : "3671902ed56740c2",
+        "parentUid" : "7a68e93506b6ab3ef17eb6389ded47a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620846362848,
+          "stop" : 1620846362848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a68e93506b6ab3ef17eb6389ded47a6"
+    } ],
+    "uid" : "c646a1c6416fccb70e00104559eef5a7"
+  } ]
+}

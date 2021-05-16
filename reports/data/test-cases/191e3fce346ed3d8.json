@@ -1,0 +1,66 @@
+{
+  "uid" : "191e3fce346ed3d8",
+  "name" : "test_get_price_success",
+  "fullName" : "cases.test_price1.TestTokenPrice#test_get_price_success",
+  "historyId" : "8bc33da6945cbec1b1be8ef8e6ee03a6",
+  "time" : {
+    "start" : 1620843372910,
+    "stop" : 1620843372910,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "api_test"
+  }, {
+    "name" : "story",
+    "value" : "币种列表数据"
+  }, {
+    "name" : "story",
+    "value" : "验证获取币种价格"
+  }, {
+    "name" : "feature",
+    "value" : "获取币种价格"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_price1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTokenPrice"
+  }, {
+    "name" : "host",
+    "value" : "192.168.0.102"
+  }, {
+    "name" : "thread",
+    "value" : "47553-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_price1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "191e3fce346ed3d8.json",
+  "parameterValues" : [ ]
+}

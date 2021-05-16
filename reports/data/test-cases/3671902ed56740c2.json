@@ -1,0 +1,110 @@
+{
+  "uid" : "3671902ed56740c2",
+  "name" : "test_get_price_fail",
+  "fullName" : "cases.test_price1.TestTokenPrice#test_get_price_fail",
+  "historyId" : "d5479ec6e0edff03c633b4658de309e9",
+  "time" : {
+    "start" : 1620846362848,
+    "stop" : 1620846362848,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "币种信息错误"
+  }, {
+    "name" : "story",
+    "value" : "获取不到币种信息"
+  }, {
+    "name" : "story",
+    "value" : "验证获取币种价格"
+  }, {
+    "name" : "feature",
+    "value" : "api_test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_price1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTokenPrice"
+  }, {
+    "name" : "host",
+    "value" : "192.168.0.102"
+  }, {
+    "name" : "thread",
+    "value" : "48469-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_price1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "605e8abea7c5e40f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620846265341,
+        "stop" : 1620846265342,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "658478fa0159812e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620844164443,
+        "stop" : 1620844164443,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "50710c2b1b853ce2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620843854197,
+        "stop" : 1620843854197,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "110c62c7b9627a87",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 4 == 3",
+      "time" : {
+        "start" : 1620843389766,
+        "stop" : 1620843389766,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9d524e682fb05ec2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 4 == 3",
+      "time" : {
+        "start" : 1620843372916,
+        "stop" : 1620843372916,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3671902ed56740c2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "5065938b6fd9faf8",
+  "name" : "test_api",
+  "fullName" : "cases.test_price1.Test#test_api",
+  "historyId" : "f04eea2f27404a7fd6c8d3a9f3486c01",
+  "time" : {
+    "start" : 1620834910553,
+    "stop" : 1620834910553,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "denglushibai"
+  }, {
+    "name" : "feature",
+    "value" : "huodhuwdhi"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_price1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "192.168.0.102"
+  }, {
+    "name" : "thread",
+    "value" : "46153-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_price1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5065938b6fd9faf8.json",
+  "parameterValues" : [ ]
+}

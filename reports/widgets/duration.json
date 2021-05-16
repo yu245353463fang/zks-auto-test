@@ -1,0 +1,71 @@
+[ {
+  "uid" : "5065938b6fd9faf8",
+  "name" : "test_api",
+  "time" : {
+    "start" : 1620834910553,
+    "stop" : 1620834910553,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "333f06a977afc9c4",
+  "name" : "test_fail",
+  "time" : {
+    "start" : 1620834910445,
+    "stop" : 1620834910445,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dc92c916ab640ce",
+  "name" : "test_case",
+  "time" : {
+    "start" : 1620834910443,
+    "stop" : 1620834910443,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "578e66e85c68f648",
+  "name" : "test_api",
+  "time" : {
+    "start" : 1620842873887,
+    "stop" : 1620842873887,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3671902ed56740c2",
+  "name" : "test_get_price_fail",
+  "time" : {
+    "start" : 1620846362848,
+    "stop" : 1620846362848,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2745059ee23391e",
+  "name" : "test_get_price_success",
+  "time" : {
+    "start" : 1620846362846,
+    "stop" : 1620846362846,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf28fc1058d427c8",
+  "name" : "test_fail",
+  "time" : {
+    "start" : 1620842873785,
+    "stop" : 1620842873785,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

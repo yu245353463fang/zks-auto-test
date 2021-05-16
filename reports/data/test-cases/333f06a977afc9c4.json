@@ -1,0 +1,158 @@
+{
+  "uid" : "333f06a977afc9c4",
+  "name" : "test_fail",
+  "fullName" : "cases.test_price1.Test#test_fail",
+  "historyId" : "2572641e4810943100c95b6256e630ac",
+  "time" : {
+    "start" : 1620834910445,
+    "stop" : 1620834910445,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 2 == 1",
+  "statusTrace" : "self = <test_price1.Test object at 0x7ff88ece51d0>\n\n    @allure.feature('huodhuwdhi')\n    @allure.story('denglushibai')\n    def test_fail(self):\n>       assert 2 == 1\nE       assert 2 == 1\n\ncases/test_price1.py:24: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "denglushibai"
+  }, {
+    "name" : "feature",
+    "value" : "huodhuwdhi"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_price1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "192.168.0.102"
+  }, {
+    "name" : "thread",
+    "value" : "46153-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_price1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "98af62061ed1daee",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620834811026,
+        "stop" : 1620834811026,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b8235908746bbe83",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620834779312,
+        "stop" : 1620834779312,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ad3ac8ff6924ed82",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620834681768,
+        "stop" : 1620834681769,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6b25d0b7b70a6761",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620834663806,
+        "stop" : 1620834663807,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "34f717f223f41396",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620834618301,
+        "stop" : 1620834618301,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e00a9fb1044bff43",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620833943285,
+        "stop" : 1620833943285,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5ae01b3af1183e1f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620833920122,
+        "stop" : 1620833920123,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e46ddfd130c69f6d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620833855930,
+        "stop" : 1620833855930,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "68a9ba385687aa8d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620833617968,
+        "stop" : 1620833617969,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cb731029a9568a1f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 1",
+      "time" : {
+        "start" : 1620833440205,
+        "stop" : 1620833440206,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "333f06a977afc9c4.json",
+  "parameterValues" : [ ]
+}

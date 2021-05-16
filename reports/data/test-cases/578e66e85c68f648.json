@@ -1,0 +1,68 @@
+{
+  "uid" : "578e66e85c68f648",
+  "name" : "test_api",
+  "fullName" : "cases.test_price1.TestTokenPrice#test_api",
+  "historyId" : "d4fd7a080af7a0467f34d8c8ece24841",
+  "time" : {
+    "start" : 1620842873887,
+    "stop" : 1620842873887,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "api_test"
+  }, {
+    "name" : "feature",
+    "value" : "huodhuwdhi"
+  }, {
+    "name" : "story",
+    "value" : "denglushibai"
+  }, {
+    "name" : "story",
+    "value" : "验证获取币种价格"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_price1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTokenPrice"
+  }, {
+    "name" : "host",
+    "value" : "192.168.0.102"
+  }, {
+    "name" : "thread",
+    "value" : "47431-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_price1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "578e66e85c68f648.json",
+  "parameterValues" : [ ]
+}
